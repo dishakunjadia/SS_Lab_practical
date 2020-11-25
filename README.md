@@ -1,5 +1,5 @@
 # SS_Lab_practical
-#Name: Disha Kunjadia
-#batch:EXTC1(E12)
-#SAP ID: 60002190035
-#SS_LAB_SUBMISSION
+#Name: Disha Kunjadia/n
+#batch:EXTC1(E12)/n
+#SAP ID: 60002190035/n
+#SS_LAB_SUBMISSION/n
